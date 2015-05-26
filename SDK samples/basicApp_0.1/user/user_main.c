@@ -24,7 +24,7 @@ If you’re wondering what the ICACHE_FLASH_ATTR means in earlier example; it’
 - Task should not occupy CPU more than 10 ms, otherwise may cause Wi-Fi connection break. We suggest to use a timer to check periodically.
 
 - see article web http://www.penninkhof.com/2015/03/how-to-program-an-esp8266/
-- debug, veure https://www.reddit.com/r/esp8266/comments/3443kc/question_on_serial_debugging/
+- debug, see https://www.reddit.com/r/esp8266/comments/3443kc/question_on_serial_debugging/
  *******************************************************
 */
 
